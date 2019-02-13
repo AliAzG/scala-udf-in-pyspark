@@ -1,4 +1,4 @@
-name := "spark_local"
+name := "scala_udf"
 
 scalaVersion := "2.11.12"
 
